@@ -1,5 +1,5 @@
 variable "aws_profile" {
-  default = "zooz-dev"
+  default = "default"
 }
 
 variable "instance_size" {
